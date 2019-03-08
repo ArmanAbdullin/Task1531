@@ -1,0 +1,2 @@
+//А я без BigInteger управился....))
+//https://vk.com/@dekapt-funkciya-opredeleniya-faktoriala-chisla
